@@ -1,0 +1,3 @@
+Contact: security@gosecureyourself.org
+Encryption: http://www.gosecureyourself.org/pgp-key.txt
+Acknowledgements: http://www.gosecureyourself.org/haxors.html
